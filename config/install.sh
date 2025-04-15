@@ -6,7 +6,7 @@ set -e
 echo "--- Starting Roo Code Memory Bank Config Setup ---"
 
 # Define files to download (relative to config/ in the repo)
-REPO_BASE_URL="https://raw.githubusercontent.com/GreatScottyMac/roo-code-memory-bank/main/config"
+REPO_BASE_URL="https://raw.githubusercontent.com/nobu007/roo-code-memory-bank-struct/main/config"
 FILES_TO_DOWNLOAD=(
     ".roorules-architect"
     ".roorules-ask"
